@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Redux-JSONHolder-API/static/css/main.d3bb61ce.chunk.css",
+    "main.js": "/React-Redux-JSONHolder-API/static/js/main.ad05e5ca.chunk.js",
+    "main.js.map": "/React-Redux-JSONHolder-API/static/js/main.ad05e5ca.chunk.js.map",
+    "runtime-main.js": "/React-Redux-JSONHolder-API/static/js/runtime-main.ff212097.js",
+    "runtime-main.js.map": "/React-Redux-JSONHolder-API/static/js/runtime-main.ff212097.js.map",
+    "static/js/2.db02d6cf.chunk.js": "/React-Redux-JSONHolder-API/static/js/2.db02d6cf.chunk.js",
+    "static/js/2.db02d6cf.chunk.js.map": "/React-Redux-JSONHolder-API/static/js/2.db02d6cf.chunk.js.map",
+    "index.html": "/React-Redux-JSONHolder-API/index.html",
+    "precache-manifest.6f5db662f41ecdf5f79a9413ec6af898.js": "/React-Redux-JSONHolder-API/precache-manifest.6f5db662f41ecdf5f79a9413ec6af898.js",
+    "service-worker.js": "/React-Redux-JSONHolder-API/service-worker.js",
+    "static/css/main.d3bb61ce.chunk.css.map": "/React-Redux-JSONHolder-API/static/css/main.d3bb61ce.chunk.css.map",
+    "static/js/2.db02d6cf.chunk.js.LICENSE.txt": "/React-Redux-JSONHolder-API/static/js/2.db02d6cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff212097.js",
+    "static/js/2.db02d6cf.chunk.js",
+    "static/css/main.d3bb61ce.chunk.css",
+    "static/js/main.ad05e5ca.chunk.js"
+  ]
+}
